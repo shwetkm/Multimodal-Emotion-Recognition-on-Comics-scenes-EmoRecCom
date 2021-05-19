@@ -1,0 +1,2 @@
+# Multimodal-Emotion-Recognition-on-Comics-scenes-EmoRecCom-
+ICDAR2021 Competition hosted on Codalab. The emotions of comic characters are described by the Visual information, the Text in speech Balloons or Captions and the Onomatopoeia (Comic drawings of words that phonetically imitates, resembles, or suggests the sound that it describes). The task hence is a multi-modal analysis task which can take advantages from both fields: computer vision and natural language processing which are two of the main interests of the ICDAR community.
