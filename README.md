@@ -28,3 +28,20 @@ Target labels:
 There are 8 emotion classes including: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral, 7=Others.
 
 
+Sample Predictions:
+
+Example 1:
+
+<img src="1697_3_3.jpg" width="224" height="224"> **Prediction: [Happy, Surprise, Neutral] | Ground Truth: [Happy, Surprise, Neutral]**
+
+Example 2:
+
+<img src="1920_15_0.jpg" width="224" height="224"> **Prediction: [Disgust, Happy, Neutral] | Ground Truth: [Disgust, Happy, Neutral]**
+
+Example 3:
+
+<img src="2260_47_8.jpg" width="224" height="224"> **Prediction: [Angry, Surprise, Neutral] | Ground Truth: [Fear, Happy, Neutral]**
+
+Leaderboard https://competitions.codalab.org/competitions/30954#results
+![image](https://user-images.githubusercontent.com/8198380/118799385-48392880-b8bc-11eb-876f-8c83ff0c6be4.png)
+
